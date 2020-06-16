@@ -44,7 +44,7 @@ a.svg{position: relative;display:inline-block;}a.svg:after{content:"";position:a
 .text{display:flex;flex-direction:column;flex-wrap:nowrap;justify-content:center;align-items:center;text-align: center;background:hsla(0,0%,98%,0.7);}
 
 .dull{color:hsla(0,0%,40%,1.0);font-style:italic;letter-spacing:0.033rem;}
-.seal{height:10rem;margin-bottom:7rem;}
+.seal{height:5.86rem;margin-bottom:3.737rem;}
 .spacer{height:10vh;width:100%;display: block;}
 
 .fw,.fwww{width:100vw;height:100vh;margin:0;padding:10%;}
